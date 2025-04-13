@@ -4,7 +4,7 @@
 
 ## Descripción
 
-El Club de Fútbol NF Pirowen es una comunidad apasionada de jóvenes amantes del deporte, fundada en 2022 por Manuel Pose y Samuel Fuentes. Actualmente, nuestro equipo es presidido por Manuel Pose. Somos un club acogedor ubicado en A Piroga, Galicia, donde disfrutamos del fútbol en familia, fusionando nuestra pasión por el deporte con nuestras raíces gallegas.
+El Club de Fútbol NF Pirowen es una comunidad apasionada de jóvenes amantes del deporte, fundada en 2022 por un grupo de amigos. Actualmente, nuestro equipo es presidido por Manuel Pose. Somos un club acogedor ubicado en A Piroga, Galicia, donde disfrutamos del fútbol en familia, fusionando nuestra pasión por el deporte con nuestras raíces gallegas.
 
 En NF Pirowen, nuestro lema "Go NF Go" nos impulsa a superar nuestros límites y alcanzar nuevas metas juntos. Creemos en el poder del trabajo en equipo y la camaradería, creando una comunidad unida que trasciende los límites de la cancha. Valoramos y apoyamos el crecimiento personal y deportivo de cada miembro, brindando un espacio enriquecedor para alcanzar el máximo potencial.
 
