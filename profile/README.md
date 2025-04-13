@@ -1,6 +1,6 @@
 # NF Pirowen - Club de Fútbol
 
-![Logo del Club NF Pirowen](images/Escudo.jpg)
+![Logo del Club NF Pirowen](../photos/escudo_nf.jpg)
 
 ## Descripción
 
@@ -18,17 +18,6 @@ En NF Pirowen, nuestro lema "Go NF Go" nos impulsa a superar nuestros límites y
 
 - **Lema Inspirador:** "Go NF Go" es nuestra invitación a ir más allá y perseguir nuestras metas con determinación.
 
-## Contenido del Repositorio
-
-- **`html`:** Carpeta de archivos HTML que contienen la página web oficial del club.
-
-- **`css`:** Hoja de estilos CSS para el diseño y apariencia de la página web.
-
-- **`images`:** Carpeta que contiene imágenes relacionadas con el club.
-
-## Página Web Oficial
-Actualmente en estado de construcción
-
 ## Redes Sociales
 
 Síguenos en nuestras redes sociales para mantenerte actualizado con las últimas novedades, eventos y fotos:
@@ -40,12 +29,6 @@ Síguenos en nuestras redes sociales para mantenerte actualizado con las última
 
 ¡Agradecemos las contribuciones de la comunidad para mejorar el club! Si deseas colaborar, por favor, revisa nuestras pautas de contribución y envía tus pull requests.
 
-## Licencia
-
-Este proyecto está bajo la Licencia [Creative Commons Attribution 4.0 International License](LICENSE.md).
-
 ## Contacto
 
 Para cualquier consulta o información adicional, no dudes en contactarnos en [nfpirowen@gmail.com](mailto:nfpirowen@gmail.com).
-
-Todos los derechos reservados &copy; NF Pirowen.
